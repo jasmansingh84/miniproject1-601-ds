@@ -1,6 +1,8 @@
-# Learn vi editor for Unix
+# VI Walkthrough
 
-I will note what I learned using vi editor, so it's `vi cheatsheet` or `vi for designers` :)
+vi is a screen-oriented text editor originally created for the Unix operating system.
+
+Below are the commands for vi
 
 **Starting vi and opening files**
 
