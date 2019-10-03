@@ -4,7 +4,7 @@ VI is a screen-oriented text editor originally created for the Unix operating sy
 
 **Open a file using vi**
 
-Open your **Terminal** app & type `vi filename` file that you want to edit
+Open **Terminal** app & type `vi filename` file that you want to edit
 
 ![Image of opening a file in vi](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/Enable-vi-mode.png)
 
@@ -23,7 +23,8 @@ In this mode commands are used to **move** around and edit text objects
 
 **2. Insert mode**
 
-This is the mode you use to type or **insert** text into a buffer
+This is the mode you use to type or **insert** text.
+
 
 | Key | Description | Reverse | Description |
 | ------ | ----------- | ----------- | ----------- |
@@ -33,9 +34,12 @@ This is the mode you use to type or **insert** text into a buffer
 
 **Saving files**
 
-* Saving changes
+* Saving changes in file
 
 Go to `command mode` by <kbd>ESC</kbd> then type the commant `:wq`
+
+![Image of write and quit in vi](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/write-quit-vi.png)
+
 
 | Command | Description |
 | ------ | ----------- |
