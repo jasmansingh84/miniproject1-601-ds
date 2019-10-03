@@ -8,6 +8,9 @@
 
 ![this is cd example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/cd.png)
 
+
+![this is cd example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/cd4.png)
+
 -Below is the example for cd 
  
  ![This is cd 2 example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/pwd.png)
@@ -43,6 +46,9 @@ This command removes files, not directories. rm file.txt will remove the file na
 ![This is cd 2 example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/rm.png)
  
  **7. history**
+ 
+ 
+![this is cd example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/history.png)
  
  **8. Home directory and ~ tilda**
  
