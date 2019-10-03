@@ -11,7 +11,7 @@ Open your **Terminal** app & type `vi filename` file that you want to edit
 
 There are two modes in **vi**, `command mode` & `Insert mode`
 
-* 1. Command mode
+**1. Command mode**
 
 In this mode commands are used to **move** around and edit text objects
 
@@ -19,7 +19,7 @@ In this mode commands are used to **move** around and edit text objects
 | ------ | ----------- |
 | <kbd>ESC</kbd> | returns you to `command mode` |
 
-* 2. Insert mode
+**2. Insert mode**
 
 This is the mode you use to type or **insert** text into a buffer
 
@@ -50,7 +50,7 @@ Go to `command mode` by <kbd>ESC</kbd> then type the commant `:wq`
 
 **Redo and Undo**
 
-Useful commants to undo, redo or repeat
+To Undo or reset multiple/single change or reset use the following commands:
 
 | Command | Description |
 | ------ | ----------- |
@@ -61,7 +61,7 @@ Useful commants to undo, redo or repeat
 
 **Cut and paste**
 
-Yank (copy) word or a line and paste it
+To copy(Yank) or paste in vi use the following code:
 
 | Command | Description |
 | ------ | ----------- |
