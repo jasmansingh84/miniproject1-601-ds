@@ -2,9 +2,12 @@
 
 VI is a screen-oriented text editor originally created for the Unix operating system. Following are the commands for vi to get started.
 
-**Starting vi and opening files**
+**Open a file using vi**
 
 Open your **Terminal** app & type `vi filename` file that you want to edit
+
+(/resources/Enable-vi-mode.png)
+
 
 
 **Operating Modes**
