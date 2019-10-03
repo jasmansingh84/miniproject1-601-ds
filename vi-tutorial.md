@@ -45,23 +45,8 @@ Go to `command mode` by <kbd>ESC</kbd> then type the commant `:wq`
 
 | Command | Description |
 | ------ | ----------- |
-| `:q!` | Quit vi without saveing |
+| `:q!` | Quit vi without saving |
 
-* Saving to another file
-
-Go to `command mode` by <kbd>ESC</kbd> then type the commant `:w filename` while the `filename` is your file name
-
-| Command | Description |
-| ------ | ----------- |
-| `:w filename` | Save the contents to the `filename` & quit vi |
-
-**Viewing a file**
-
-You can look at a file without the risk of altering its contents by using vi in "read only" mode.
-
-| Command | Description |
-| ------ | ----------- |
-| `view filename` | Look at a file in "read only" mode |
 
 **Redo and Undo**
 
@@ -83,32 +68,6 @@ Yank (copy) word or a line and paste it
 | `yy` | yank a line |
 | `yw` | yank word |
 | `y$` | yank to end of line |
-| `p` | paste after cursor |
-| `dd` | delete (cut) a line |
-| `dw` | delete (cut) word |
-| `d$` or `D` | delete to the end of the line |
 
-**Search and replace**
-
-Just use the syntax and replace the address
-
-Syntax:
-       `:[address]s/old_text/new_text/`
-
-Exapmle:
-       `:%s/post/article/` this furmula replace the all words 'post' with 'article' in the entire file. 
-
-| Address | Description |
-| ------ | ----------- |
-| `.` | current line |
-| `n` | line number n |
-| `.+m` | current line plus m lines |
-| `%` | entire file |
-
-**Setting a wrap margin**
-
-| Command | Description |
-| ------ | ----------- |
-| `set wm=5` | Wrapp text five (5) characters |
-
-In insert mode, text is wrapped five (5) characters from the right margin of the screen
+## Contributors
+Divyanshu Sachdeva - ds997
