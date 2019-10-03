@@ -6,6 +6,11 @@
 2. js2547 - Jasman Preet Singh 
 3. sb2344 - Soham Banerjee
 
+
+## Contents
+
+1. [CI/CD](ci-cd-usage.md)
+
 ## Tasks Check List
 
 - [x] Create Repository and 
