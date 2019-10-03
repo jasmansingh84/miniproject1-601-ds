@@ -29,7 +29,7 @@ mkdir NewDirectory will make a new directory called NewDirectory.
  
  - path
 
-Type pwd to display the path to your current directory.
+Type pwd to display the path to your current directory. 
 
 ![This is cd 2 example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/pwd.png)
  
