@@ -1,2 +1,0 @@
-# VI(Visual Editor) Walkthrough
-
