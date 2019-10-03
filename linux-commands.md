@@ -15,6 +15,7 @@ Below is the example for cd
 
 This command, followed by the name you wish to name your directory, creates a new directory. mkdir folder1 will make a new directory called folder1.
  
+ ![This is mkdir example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/mkdir.png)
  
  **3. cp **
  
