@@ -1,9 +1,10 @@
-
-When starting out with linux, there are some basic commands everyone should know.
+#Basic linux commands to access filesystem.
 
  **1. cd - change directory**
 
-cd followed by a directory or file path will take you inside that directory(folder).
+* cd followed by a directory or file path will take you inside that directory(folder).
+
+![this is cd example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/cd2.png)
  
   **2. mkdir - make directory**
 
