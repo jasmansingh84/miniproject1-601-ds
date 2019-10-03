@@ -1,12 +1,10 @@
-# VI Walkthrough
+# VI(Vsual Editor) Walkthrough
 
-vi is a screen-oriented text editor originally created for the Unix operating system.
-
-Below are the commands for vi
+VI is a screen-oriented text editor originally created for the Unix operating system. Following are the commands for vi to get started.
 
 **Starting vi and opening files**
 
-Open your **Terminal** app & type `vi filename`
+Open your **Terminal** app & type `vi filename` file that you want to edit
 
 
 **Operating Modes**
