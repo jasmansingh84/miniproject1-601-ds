@@ -10,7 +10,7 @@ Below is the example for directly going to specfied folder
 
 Below is the example for cd 
  
- ![This is cd 2 example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/cd1.png)
+ ![This is cd 2 example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/pwd.png)
   **2. mkdir - make directory**
 
 This command, followed by the name you wish to name your directory, creates a new directory. mkdir folder1 will make a new directory called folder1.
