@@ -1,4 +1,4 @@
-# Basic linux commands to access filesystem.
+# Basic linux commands to access Filesystem.
 
  **1. cd - Change Directory**
 
@@ -51,9 +51,12 @@ This command removes files, not directories. rm file.txt will remove the file na
  
 ![this is cd example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/history.png)
  
- **8. Home directory and ~ tilda**
+ **8. Home directory**
  
 A home directory, also called a login directory, is the directory on Unix-like operating systems that serves as the repository for a user's personal files, directories and programs. It is also the directory that a user is first in after logging into the system.
+
+
+![this is cd example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/cd.png)
 
  **9. File paths in linux**
  
@@ -62,7 +65,7 @@ A home directory, also called a login directory, is the directory on Unix-like o
  
  For example 
  
- 
+ ![this is cd example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/cd4.png)
  
  **10. Using the tab key to complete file paths**
  
@@ -70,3 +73,7 @@ A home directory, also called a login directory, is the directory on Unix-like o
  For Example when typing a file or folder name clicking tab autocompletes the file or folder name.
  
  **11. Using up and down arrow for history**
+ 
+ Through up and down arrown key user can span to history of commands
+ By up arrow the previous command you entered in the terminal shows up on the command line.
+ 
