@@ -45,13 +45,16 @@ This command removes files, not directories. rm file.txt will remove the file na
 
 ![This is cd 2 example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/rm.png)
  
- **7. history**
+ **7. History**
  
+ The History command is used to view the previously executed command
  
 ![this is cd example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/history.png)
  
  **8. Home directory and ~ tilda**
  
+A home directory, also called a login directory, is the directory on Unix-like operating systems that serves as the repository for a user's personal files, directories and programs. It is also the directory that a user is first in after logging into the system.
+
  **9. file paths in linux**
  
  **10. Using the tab key to complete file paths**
