@@ -14,7 +14,7 @@
 - [ ] this is an incomplete item
 
 
-[Change Log](changelog.md)
+## Change Log
 
 - [x] Create Repository and 
 - [x] list syntax required (any unordered or ordered list supported)
