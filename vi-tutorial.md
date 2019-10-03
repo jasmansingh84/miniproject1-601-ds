@@ -1,4 +1,4 @@
-# VI(Vsual Editor) Walkthrough
+# VI(Visual Editor) Walkthrough
 
 VI is a screen-oriented text editor originally created for the Unix operating system. Following are the commands for vi to get started.
 
