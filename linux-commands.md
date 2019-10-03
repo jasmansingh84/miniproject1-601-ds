@@ -6,7 +6,7 @@
 
 Below is the example for directly going to specfied folder
 
-![this is cd example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/cd2.png)
+![this is cd example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/pwd.png)
 
 Below is the example for cd 
  
@@ -23,6 +23,8 @@ This command, followed by the name you wish to name your directory, creates a ne
  - path
 
 Type pwd to display the path to your current directory.
+
+![This is cd 2 example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/cd1.png)
  
  **5. mv**
  
