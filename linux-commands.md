@@ -32,11 +32,15 @@ Type pwd to display the path to your current directory.
  - move
 
 Use the mv command to move files through the command line. We can also use the mv command to rename a file. For example, if we want to rename the file “text” to “new”, we can use ‘mv text new’.
+
+![This is cd 2 example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/mv.png)
  
  **6. rm**
  - remove
 
 This command removes files, not directories. rm file.txt will remove the file named file.txt as long as it exists and is in the current directory.
+
+![This is cd 2 example](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/rm.png)
  
  **7. history**
  
