@@ -31,9 +31,9 @@ This command removes files, not directories. rm file.txt will remove the file na
  
  **7. history**
  
- **8. Home directory and ~**
+ **8. Home directory and ~ tilda**
  
- **9. file paths in linux **
+ **9. file paths in linux**
  
  **10. Using the tab key to complete file paths**
  
