@@ -6,7 +6,7 @@ VI is a screen-oriented text editor originally created for the Unix operating sy
 
 Open your **Terminal** app & type `vi filename` file that you want to edit
 
-(https://github.com/ds997/miniproject1-601-ds/blob/master/resources/Enable-vi-mode.png)
+![Image of opening a file in vi](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/Enable-vi-mode.png)
 
 
 **Operating Modes**
