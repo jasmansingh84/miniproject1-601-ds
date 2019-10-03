@@ -55,8 +55,18 @@ This command removes files, not directories. rm file.txt will remove the file na
  
 A home directory, also called a login directory, is the directory on Unix-like operating systems that serves as the repository for a user's personal files, directories and programs. It is also the directory that a user is first in after logging into the system.
 
- **9. file paths in linux**
+ **9. File paths in linux**
+ 
+ A path is a unique location to a file or a folder in a file system of an OS.
+ A path to a file is a combination of / and alpha- numeric characters.
+ 
+ For example 
+ 
+ 
  
  **10. Using the tab key to complete file paths**
+ 
+ TAB is used to autocomplete commands, filenames or folder names.
+ For Example when typing a file or folder name clicking tab autocompletes the file or folder name.
  
  **11. Using up and down arrow for history**
