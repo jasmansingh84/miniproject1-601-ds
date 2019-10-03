@@ -76,7 +76,7 @@ For example: **divyanshuhome** is my home directory in the below screenshot.
  TAB is used to autocomplete commands, filenames or folder names.
  For Example when typing a file or folder name clicking tab autocompletes the file or folder name.
  
- ## 11. Using up and down arrow for history
+ ## 11. Using up and down arrow for history 
  
  Through up and down arrown key user can span to history of commands
  By up arrow the previous command you entered in the terminal shows up on the command line.
