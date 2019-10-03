@@ -10,6 +10,7 @@
 ## Contents
 
 1. [CI/CD](ci-cd-usage.md)
+2. [VI] (vi-tutorial.md)
 
 ## Tasks Check List
 
