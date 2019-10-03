@@ -76,4 +76,4 @@ To copy(Yank) or paste in vi use the following code:
 | `y$` | yank to end of line |
 
 ## Contributors
-Divyanshu Sachdeva - ds997
+**Divyanshu Sachdeva - ds997
